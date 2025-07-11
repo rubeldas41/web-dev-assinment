@@ -38,3 +38,29 @@ body{
     top: 20px;
     right: 20px
 }
+.greeting-font{
+    font-size: 50px;
+    font-weight: 600px;
+}
+.banner-greeting{
+    font-size: 42px;
+    font-weight: 85px;
+    color: #252432;
+}
+.banner-description{
+    font-size: 24px;
+}
+.banner{
+    display: flex;
+    justify-content: space-around;
+    margin: 0 159px 0 141px;
+}
+.banner-content{
+    max-width: 600;
+    flex-direction: row;
+    gap: 23px;
+}
+.image{
+    width: 403px 328px;
+    border-radius: 48px;
+}
