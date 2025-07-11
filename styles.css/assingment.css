@@ -91,3 +91,25 @@ main{
     color: #4E47FF;
     font-size: 80px;
 }
+.user-report{
+    font-size: 42px;
+    text-align: center;
+}
+.container{
+    display: flex;
+    gap: 23px;
+}
+.card {
+    padding: 30px;
+}
+.focus-section{
+    text-align: center;
+    padding: 33px;
+    
+}
+.ready{
+    font-size: 50px;
+}
+.image-c{
+    border-radius: 48px;
+}
